@@ -4,7 +4,7 @@ Python SDK to communicate with Billing v1 API
 
 * [Principais recursos](#principais-recursos)
 * [Exemplos](#exemplos)
-* [Documentação do desenvolvedor(#documentação-do-desenvolvedor)
+* [Documentação do desenvolvedor](#documentação-do-desenvolvedor)
 
 ## Principais recursos
 
